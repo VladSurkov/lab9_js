@@ -1,0 +1,12 @@
+.plus,
+.minus {
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+}
+
+.reset {
+    font-size: 16px;
+    height: 40px;
+}
